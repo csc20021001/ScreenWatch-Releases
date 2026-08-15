@@ -12,9 +12,6 @@ Works with any application, because it only looks at pixels.*
 
 官網：**https://scmwc.pages.dev**（[中文](https://scmwc.pages.dev/zh)）
 
-> 這個工具原本叫 ScreenWatch，0.1.3 起改名為 SCMWC。同一個東西，只是換了名字。
-> 從舊版升級直接執行安裝程式就好，它會清掉舊的那份並把你的設定搬過來。
-
 ## 下載
 
 **[⬇ 下載最新版本](../../releases/latest)**
