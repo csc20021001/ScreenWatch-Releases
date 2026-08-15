@@ -1,4 +1,4 @@
-# ScreenWatch
+# SCMWC
 
 **框住螢幕任何一塊，變了就通知你。**
 
@@ -8,13 +8,18 @@
 *Watch any region of your screen and get notified when it changes.
 Works with any application, because it only looks at pixels.*
 
-![ScreenWatch 主視窗](docs/screenshot.png)
+![SCMWC 主視窗](docs/screenshot.png)
+
+官網：**https://scmwc.pages.dev**（[中文](https://scmwc.pages.dev/zh)）
+
+> 這個工具原本叫 ScreenWatch，0.1.3 起改名為 SCMWC。同一個東西，只是換了名字。
+> 從舊版升級直接執行安裝程式就好，它會清掉舊的那份並把你的設定搬過來。
 
 ## 下載
 
 **[⬇ 下載最新版本](../../releases/latest)**
 
-Windows 10 / 11 · 約 110 KB · 不需要管理員權限
+Windows 10 / 11 · 約 140 KB · 不需要管理員權限
 
 目前所有功能免費開放，沒有使用期限，沒有廣告，也不蒐集任何資料。
 
@@ -72,8 +77,8 @@ Windows 10 / 11 · 約 110 KB · 不需要管理員權限
 | --- | --- |
 | 作業系統 | Windows 10 1607 以上 / Windows 11 |
 | 相依套件 | .NET Framework 4.x（Windows 內建） |
-| 安裝位置 | `%LOCALAPPDATA%\Programs\ScreenWatch` |
-| 設定檔 | `%LOCALAPPDATA%\ScreenWatch\config.txt`，解除安裝時一併刪除 |
+| 安裝位置 | `%LOCALAPPDATA%\Programs\SCMWC` |
+| 設定檔 | `%LOCALAPPDATA%\SCMWC\config.txt`，解除安裝時一併刪除 |
 | 資料蒐集 | 沒有。除了你自己設定的 Discord 推播之外不對外連線 |
 
 ## 回報問題
